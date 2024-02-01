@@ -1,0 +1,7 @@
+{
+  "name": "GamificationTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
